@@ -9,7 +9,7 @@
 //     return "yes ascending";
 // }
 // let num = [1,2,3]
-// let num2 = [1,2,8,3,2]
+// let num2 = [1,2,8,3,2,5,6]
 
 // console.log(ascending(num));
 // console.log(ascending(num2));
