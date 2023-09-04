@@ -8,7 +8,7 @@
 //     }
 //     return "yes ascending";
 // }
-// let num = [1,2,3]
+// let num = [1,2,3,3,5]
 // let num2 = [1,2,8,3,2,5,6]
 
 // console.log(ascending(num));
